@@ -989,16 +989,16 @@
                 "website": "http://haandbryggeriet.net/", 
                 "name": "HaandBryggeriet AS", 
                 "phone": null, 
-                "street": "Skogliveien 4", 
-                "address": "3047 Drammen"
+                "street": "Jacob Borchs gate 6", 
+                "address": "3012 Drammen"
             }
         }, 
         {
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    11.187142, 
-                    63.867842, 
+                    10.231297016143799,
+                    59.742136587938255
                     0.0
                 ]
             }, 
