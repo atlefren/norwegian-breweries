@@ -13,8 +13,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.7fjellbryggeri.com/", 
-                "name": "7 Fjell Bryggeri",
-                "street": "Sandviksveien 62",
+                "ratebeer_id": 18125, 
+                "street": "Sandviksveien 62", 
+                "name": "7 Fjell Bryggeri", 
                 "address": "5035 Bergen"
             }
         }, 
@@ -30,8 +31,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.amundsenbryggeri.no/", 
-                "name": "Amundsen Bryggeri & Spiseri", 
+                "ratebeer_id": 12574, 
                 "street": "Stortingsgata 20", 
+                "name": "Amundsen Bryggeri & Spiseri", 
                 "address": "0161 Oslo"
             }
         }, 
@@ -47,8 +49,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.apotekergaarden.no/", 
-                "name": "Apotekergaarden", 
+                "ratebeer_id": 16286, 
                 "street": "Skolegaten 3", 
+                "name": "Apotekergaarden", 
                 "address": "4876 Grimstad"
             }
         }, 
@@ -64,8 +67,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://no.wikipedia.org/wiki/Arendals_Bryggeri", 
-                "name": "Arendals Bryggeri AS", 
+                "ratebeer_id": 11400, 
                 "street": "Bryggeriveien 9", 
+                "name": "Arendals Bryggeri AS", 
                 "address": "4848 Arendal"
             }
         }, 
@@ -81,8 +85,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://atnaol.no/", 
-                "name": "Atna \u00d8l AS", 
+                "ratebeer_id": 10389, 
                 "street": "Glopveien", 
+                "name": "Atna \u00d8l AS", 
                 "address": "2476 Atna"
             }
         }, 
@@ -98,8 +103,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://austmann.no/", 
-                "name": "Austmann Bryggeri", 
+                "ratebeer_id": 16974, 
                 "street": "Bynesveien 48", 
+                "name": "Austmann Bryggeri", 
                 "address": "7018 Trondheim"
             }
         }, 
@@ -115,8 +121,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.balderbrygg.no/", 
-                "name": "Balder Brygg AS", 
+                "ratebeer_id": 14820, 
                 "street": "Riverdalen 5", 
+                "name": "Balder Brygg AS", 
                 "address": "6863 Leikanger"
             }
         }, 
@@ -132,9 +139,10 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.beitostolen.com/wshowb.aspx?a=7424", 
+                "comment": "dairy with brewery", 
+                "street": "Beitost\u00f8len (adress unkonwn, please advice)", 
                 "name": "Beito ysteri", 
-                "comment": "dairy with brewery",
-                "street": "Beitost\u00f8len (adress unkonwn, please advice)"
+                "ratebeer_id": 18493
             }
         }, 
         {
@@ -148,9 +156,10 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "Assosiated with: Baran Caf\u00e9",
+                "comment": "Assosiated with: Baran Caf\u00e9", 
                 "website": "http://baranbryggeri.no/", 
                 "name": "Baran Bryggeri", 
+                "ratebeer_id": 15475, 
                 "street": "Sigurds gate 21", 
                 "address": "5015 Bergen"
             }
@@ -167,8 +176,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.berentsens.no/", 
-                "name": "Berentsens Brygghus AS", 
+                "ratebeer_id": 5989, 
                 "street": "Jernbaneveien 28", 
+                "name": "Berentsens Brygghus AS", 
                 "address": "4370 Egersund"
             }
         }, 
@@ -184,8 +194,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://nb-no.facebook.com/Bjornsbryggeri", 
+                "comment": "Being established", 
                 "name": "Bj\u00f8rns Pub og Bryggeri", 
-                "comment": "Being established",
+                "ratebeer_id": 20703, 
                 "street": "Lysthusveien 8,", 
                 "address": "8102 Skjerstad"
             }
@@ -202,8 +213,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.hansaborg.no/no/bryggerier/borgbryggeri/", 
-                "name": "Borg Bryggeri (Hansa Borg)", 
+                "ratebeer_id": 2051, 
                 "street": "Per Gyntveien 2-4", 
+                "name": "Borg Bryggeri (Hansa Borg)", 
                 "address": "1709 Sarpsborg"
             }
         }, 
@@ -219,9 +231,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.breiflabben.no/www.breiflabben.no/Forside.html", 
-                "name": "Breiflabben Brygghus", 
-                "comment": "Out of buisness",
+                "comment": "Out of buisness", 
                 "street": "Prinsensgate 6", 
+                "name": "Breiflabben Brygghus", 
                 "address": "8480 Andenes"
             }
         }, 
@@ -237,8 +249,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://lorentzen-fisk.no/?page_id=4", 
-                "name": "BryggeBryggeriet", 
+                "ratebeer_id": 11437, 
                 "street": "Klubbvegen 15", 
+                "name": "BryggeBryggeriet", 
                 "address": "9118 Brensholmen"
             }
         }, 
@@ -254,8 +267,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/BryggerhusetVeholt", 
-                "name": "Bryggerhuset Veholt", 
+                "ratebeer_id": 19007, 
                 "street": "Voldsvegen 745", 
+                "name": "Bryggerhuset Veholt", 
                 "address": "3739 Skien"
             }
         }, 
@@ -271,8 +285,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://baadin.com/", 
-                "name": "B\u00e5din", 
+                "ratebeer_id": 18163, 
                 "street": "Notveien 3,", 
+                "name": "B\u00e5din", 
                 "address": "8013 Bod\u00f8"
             }
         }, 
@@ -287,9 +302,10 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "comment": "out of business 2007", 
+                "street": "6390, Vestnes", 
                 "name": "Baatbryggeriet", 
-                "comment": "out of business 2007",
-                "street": "6390, Vestnes"
+                "ratebeer_id": 5946
             }
         }, 
         {
@@ -304,8 +320,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.cafeibsen.no/", 
-                "name": "Cafe Ibsen", 
+                "ratebeer_id": 16391, 
                 "street": "L\u00f8kkestredet 7, ", 
+                "name": "Cafe Ibsen", 
                 "address": "4876 Grimstad"
             }
         }, 
@@ -320,9 +337,10 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Cafe Ni Muser", 
-                "comment": "inactive - see To T\u00e5rn",
+                "comment": "inactive - see To T\u00e5rn", 
+                "ratebeer_id": 13897, 
                 "street": "Bispegata 9", 
+                "name": "Cafe Ni Muser", 
                 "address": "7012 Trondheim"
             }
         }, 
@@ -338,8 +356,8 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://opsahlgarden.no/christian.html.v3/index.html", 
-                "name": "Christians Kjeller", 
                 "street": "Kirkegata 10", 
+                "name": "Christians Kjeller", 
                 "address": "3616 Kongsberg"
             }
         }, 
@@ -355,8 +373,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.hansaborg.no/cb", 
-                "name": "Christiansands bryggeri (Hansa Borg)", 
+                "ratebeer_id": 15141, 
                 "street": "Setesdalsv. 17", 
+                "name": "Christiansands bryggeri (Hansa Borg)", 
                 "address": "4616 Kristiansand"
             }
         }, 
@@ -372,8 +391,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://mat-uteliv.no/christiansand-brygghus", 
-                "name": "Christianssand Brygghus", 
+                "ratebeer_id": 15141, 
                 "street": "Tollbodgata 9", 
+                "name": "Christianssand Brygghus", 
                 "address": "4611 Kristiansand"
             }
         }, 
@@ -389,8 +409,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.coldboybrewery.com", 
+                "comment": "brewing in England", 
                 "name": "Cold Boy Brewery", 
-                "comment": "brewing in England",
+                "ratebeer_id": 15118, 
                 "street": "Volleneveien 15", 
                 "address": "1831 Askim"
             }
@@ -407,8 +428,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/Crowbar-Bryggeri/517035538316194", 
-                "name": "Crowbar & Bryggeri", 
+                "ratebeer_id": 15726, 
                 "street": "Torggata 32", 
+                "name": "Crowbar & Bryggeri", 
                 "address": "0183 Oslo"
             }
         }, 
@@ -424,8 +446,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.samfundet.no/informasjon/lokaler/daglighallen", 
-                "name": "Daglighallen", 
+                "ratebeer_id": 17919, 
                 "street": "Elgeseter gate", 
+                "name": "Daglighallen", 
                 "address": "7030 Trondheim"
             }
         }, 
@@ -440,8 +463,9 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "comment": "Never start brewing", 
                 "name": "Dalane Brygghus", 
-                "comment": "Never start brewing"
+                "ratebeer_id": 8768
             }
         }, 
         {
@@ -456,8 +480,8 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://detlillebryggeriet.no/", 
-                "name": "Det lille Bryggeri AS", 
                 "street": "Hovdmoen", 
+                "name": "Det lille Bryggeri AS", 
                 "address": "2450 Rena"
             }
         }, 
@@ -473,8 +497,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.kunstnerneshus.no/kunst/program/dronebrygg/", 
-                "name": "Dronebrygg", 
+                "ratebeer_id": 16524, 
                 "street": "Wergelandsveien 17 (Kunstnerenes hus)", 
+                "name": "Dronebrygg", 
                 "address": "0167 Oslo"
             }
         }, 
@@ -490,9 +515,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.donhaug.com/", 
+                "comment": "Not a brewery, but arranges home brewing sessions where guests can participate and taste.", 
                 "name": "D\u00f8nhaug Gjestegard", 
                 "phone": null, 
-                "comment": "Not a brewery, but arranges home brewing sessions where guests can participate and taste.", 
                 "street": "Kjerlandssido 49", 
                 "address": "5463 Uskedalen"
             }
@@ -509,8 +534,8 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.ringnes.no/omringnes/bryggerieroganlegg/sider/ecdahls.aspx", 
-                "name": "E C Dahls Bryggeri (Ringnes)", 
                 "street": "Strandveien 71", 
+                "name": "E C Dahls Bryggeri (Ringnes)", 
                 "address": "7042 Trondheim"
             }
         }, 
@@ -526,8 +551,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.ego-brygghus.com/", 
-                "name": "Ego Brygghus", 
+                "ratebeer_id": 19896, 
                 "street": "Sulfatveien 10", 
+                "name": "Ego Brygghus", 
                 "address": "1658 Torp"
             }
         }, 
@@ -543,9 +569,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://nb-no.facebook.com/Ekangersmuget", 
-                "name": "Ekangersmuget (B\u00f8lgen & Moi)", 
                 "comment": "Contract brewers, permanent based at B&M for the moment (Autumn 2013)", 
                 "street": "V\u00e5gsallmenningen 16", 
+                "name": "Ekangersmuget (B\u00f8lgen & Moi)", 
                 "address": "5014 Bergen"
             }
         }, 
@@ -577,8 +603,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.skogstadhotell.no", 
-                "name": "Elgen Mikrobryggeri", 
+                "ratebeer_id": 16124, 
                 "street": "Hemsedal sentrum", 
+                "name": "Elgen Mikrobryggeri", 
                 "address": "3560 Hemsedal"
             }
         }, 
@@ -594,8 +621,8 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Engel\u00f8ya H\u00e5ndbryggeri", 
                 "street": "B\u00f8, Engel\u00f8ya", 
+                "name": "Engel\u00f8ya H\u00e5ndbryggeri", 
                 "address": "Steigen"
             }
         }, 
@@ -611,8 +638,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.fjellbrygger.blogspot.no/", 
-                "name": "Espedalen Fjellbryggeri", 
+                "ratebeer_id": 10125, 
                 "street": "Ruten fjellstue", 
+                "name": "Espedalen Fjellbryggeri", 
                 "address": "2658 Espedalen"
             }
         }, 
@@ -628,8 +656,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Evje Mikrobryggeri", 
+                "ratebeer_id": 19667, 
                 "street": "Bygg 26", 
+                "name": "Evje Mikrobryggeri", 
                 "address": "4735 Evje"
             }
         }, 
@@ -645,6 +674,7 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.finnskogenmikrobryggeri.no/", 
+                "ratebeer_id": 20480, 
                 "name": "Finnskogen Mikrobryggeri", 
                 "address": "\u00c5snes"
             }
@@ -661,8 +691,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://finsehytta.turistforeningen.no/article.php?ar_id=30556&fo_id=5231", 
-                "name": "Finse 1223 Mikrobryggeri", 
+                "ratebeer_id": 13892, 
                 "street": "Finsehytta DNT", 
+                "name": "Finse 1223 Mikrobryggeri", 
                 "address": "5719"
             }
         }, 
@@ -678,8 +709,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.facebook.com/pages/Fjellbryggeriet/341357317865", 
-                "name": "Fjellbryggeriet", 
+                "ratebeer_id": 17486, 
                 "street": "R\u00f8njomsgrendi 6", 
+                "name": "Fjellbryggeriet", 
                 "address": "3844 \u00c5motsdal"
             }
         }, 
@@ -695,8 +727,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://faerdermikrobryggeri.com/", 
-                "name": "F\u00e6rder Mikrobrygeri", 
+                "ratebeer_id": 20929, 
                 "street": "Tordenskjolds gate 5", 
+                "name": "F\u00e6rder Mikrobrygeri", 
                 "address": "T\u00f8nsberg"
             }
         }, 
@@ -712,8 +745,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://garasjebryggeriet.no/", 
-                "name": "Garasjebryggeriet", 
                 "comment": "being established", 
+                "name": "Garasjebryggeriet", 
+                "ratebeer_id": 20433, 
                 "street": "Smedasundet 66", 
                 "address": "5528 Haugesund"
             }
@@ -730,9 +764,10 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
+                "comment": "Somewhat uncertain, beers probably not for regular sale but arranges tour with beer tasting. Capacity is 400 liter weekly for bottling. Three different types, top fermented.", 
+                "ratebeer_id": 14988, 
                 "name": "Gjerberg bryggeri", 
-                "address": "1890 Rakkestad", 
-                "comment": "Somewhat uncertain, beers probably not for regular sale but arranges tour with beer tasting. Capacity is 400 liter weekly for bottling. Three different types, top fermented."
+                "address": "1890 Rakkestad"
             }
         }, 
         {
@@ -747,8 +782,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.grans.no/", 
-                "name": "Grans Bryggeri AS", 
+                "ratebeer_id": 2493, 
                 "street": "Hegnasletta 4", 
+                "name": "Grans Bryggeri AS", 
                 "address": "3217 Sandefjord"
             }
         }, 
@@ -764,8 +800,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.visitstjordal.no/index.php?c=11&kat=Servering&tellusid=448243&lang=no", 
-                "name": "Gran\u00e5s G\u00e5rd (Skaarraadalen S\u00e5innhuslag)", 
+                "ratebeer_id": 14994, 
                 "street": "Hegra", 
+                "name": "Gran\u00e5s G\u00e5rd (Skaarraadalen S\u00e5innhuslag)", 
                 "address": "7520 Hegra, Stj\u00f8rdal"
             }
         }, 
@@ -781,8 +818,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://brygghus.no/", 
-                "name": "Gr\u00fcnerl\u00f8kka Brygghus", 
+                "ratebeer_id": 17444, 
                 "street": "Thorvald Meyers gate 30", 
+                "name": "Gr\u00fcnerl\u00f8kka Brygghus", 
                 "address": "0555 Oslo"
             }
         }, 
@@ -798,8 +836,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Grim & Gryt \u00d8kobryggeri A/S", 
                 "comment": "Being established", 
+                "name": "Grim & Gryt \u00d8kobryggeri A/S", 
+                "ratebeer_id": 21341, 
                 "street": "Hareid (unknown adress)", 
                 "address": null
             }
@@ -816,8 +855,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://gulating.wordpress.com/gulating-bryggeri/", 
-                "name": "Gulating Bryggeri", 
+                "ratebeer_id": 19960, 
                 "street": "(Fossen Bryggeripub) Fabrikkveien, Kaia", 
+                "name": "Gulating Bryggeri", 
                 "address": "6963 Dale i Sunnfjord"
             }
         }, 
@@ -833,8 +873,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/Halden-Mikrobryggeri/398778806810612", 
-                "name": "Halden Mikrobryggeri", 
+                "ratebeer_id": 16677, 
                 "street": "Borgergata", 
+                "name": "Halden Mikrobryggeri", 
                 "address": "1767 Halden"
             }
         }, 
@@ -850,8 +891,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.hph-bergen.no/", 
-                "name": "Hanne p\u00e5 H\u00f8yden", 
+                "ratebeer_id": 12731, 
                 "street": "Fosswinckels gate 18", 
+                "name": "Hanne p\u00e5 H\u00f8yden", 
                 "address": "5007 Bergen"
             }
         }, 
@@ -866,8 +908,8 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "H\u00f8vleriet", 
                 "street": "Smedasundet 66", 
+                "name": "H\u00f8vleriet", 
                 "address": "5528 Haugesund"
             }
         }, 
@@ -884,6 +926,7 @@
             "properties": {
                 "website": "http://www.hansaborg.no/", 
                 "name": "Hansa Borg Bryggerier AS", 
+                "ratebeer_id": 2051, 
                 "phone": null, 
                 "street": "Kokstaddalen 3", 
                 "address": "5257 Kokstad"
@@ -901,8 +944,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/Hemnes-Mikrobryggeri-As/437406366292616", 
-                "name": "Hemnes Mikrobryggeri AS", 
+                "ratebeer_id": 15928, 
                 "street": "Idrettsvegen 41", 
+                "name": "Hemnes Mikrobryggeri AS", 
                 "address": "8640 Hemnesberget"
             }
         }, 
@@ -918,8 +962,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://hologardstun.no/", 
-                "name": "Holo Gardstun", 
+                "ratebeer_id": 10752, 
                 "street": "Holo Gardstun", 
+                "name": "Holo Gardstun", 
                 "address": "Fl\u00e5m"
             }
         }, 
@@ -935,8 +980,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.holtens.no/", 
-                "name": "Holtens", 
+                "ratebeer_id": 16885, 
                 "street": "Foldvik", 
+                "name": "Holtens", 
                 "address": "Stavern"
             }
         }, 
@@ -952,8 +998,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://hubertusbryggeri.no/", 
-                "name": "Hubertus bryggeri (Lesja Gjestgiveri)", 
+                "ratebeer_id": 15927, 
                 "street": "Hubertus bryggeri / Lesja gjestgiveri", 
+                "name": "Hubertus bryggeri (Lesja Gjestgiveri)", 
                 "address": "2665 Lesja"
             }
         }, 
@@ -969,8 +1016,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://brygghuset.blogspot.no/", 
+                "comment": "Not a brewery", 
                 "name": "H\u00f8nefoss Brygghus", 
-                "comment": "Not a brewery",
+                "ratebeer_id": 11706, 
                 "street": "Soknedalsveien 7", 
                 "address": "3517 H\u00f8nefoss"
             }
@@ -979,8 +1027,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    10.231297016143799,
-                    59.742136587938255,
+                    10.231297016143799, 
+                    59.742136587938255, 
                     0.0
                 ]
             }, 
@@ -988,6 +1036,7 @@
             "properties": {
                 "website": "http://haandbryggeriet.net/", 
                 "name": "HaandBryggeriet AS", 
+                "ratebeer_id": 6055, 
                 "phone": null, 
                 "street": "Jacob Borchs gate 6", 
                 "address": "3012 Drammen"
@@ -1005,8 +1054,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.igb.no/", 
-                "name": "Inder\u00f8y G\u00e5rdsbryggeri", 
+                "ratebeer_id": 9421, 
                 "street": "Kvamshaugan 46", 
+                "name": "Inder\u00f8y G\u00e5rdsbryggeri", 
                 "address": "7670 Inder\u00f8y"
             }
         }, 
@@ -1022,8 +1072,8 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://lorentzen-fisk.no", 
-                "name": "Ivan Lorentzen Fiskeforretning AS", 
                 "street": "Klubbvegen 15", 
+                "name": "Ivan Lorentzen Fiskeforretning AS", 
                 "address": "9118 Brensholmen"
             }
         }, 
@@ -1039,9 +1089,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.kalfaretbrygghus.no/", 
-                "name": "Kalfaret Brygghus (Hansa Borg)", 
                 "comment": "Waldemars", 
                 "street": "Kalfarveien 76", 
+                "name": "Kalfaret Brygghus (Hansa Borg)", 
                 "address": "5018 Bergen"
             }
         }, 
@@ -1057,8 +1107,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "kinn.no", 
-                "name": "Kinn Bryggeri AS", 
+                "ratebeer_id": 11098, 
                 "street": "Strandgata 28", 
+                "name": "Kinn Bryggeri AS", 
                 "address": "6900 Flor\u00f8"
             }
         }, 
@@ -1074,8 +1125,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://klostergardentautra.no/?Mode=Meny&HovedMenyId=104&InnholdMenyId=104", 
-                "name": "Klosterg\u00e5rden H\u00e5ndbryggeri", 
+                "ratebeer_id": 10725, 
                 "street": "Klosterg\u00e5rden, 7633 Frosta", 
+                "name": "Klosterg\u00e5rden H\u00e5ndbryggeri", 
                 "address": "Tautra, Frosta"
             }
         }, 
@@ -1091,8 +1143,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/Kofoedbryggeriet/308423845867334", 
-                "name": "Kofoedbryggeriet", 
+                "ratebeer_id": 14096, 
                 "street": "B\u00f8bakke", 
+                "name": "Kofoedbryggeriet", 
                 "address": "1680 Skj\u00e6rhalden"
             }
         }, 
@@ -1108,8 +1161,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://kolonihagen.no", 
-                "name": "Kolonihagen Gr\u00fcnerl\u00f8kka", 
+                "ratebeer_id": 19327, 
                 "street": "Korsgata", 
+                "name": "Kolonihagen Gr\u00fcnerl\u00f8kka", 
                 "address": "0551 Oslo"
             }
         }, 
@@ -1125,8 +1179,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Korvald S\u00f8ndre Mikrobryggeri", 
+                "ratebeer_id": 17708, 
                 "street": "Korvaldveien 134", 
+                "name": "Korvald S\u00f8ndre Mikrobryggeri", 
                 "address": "3050 Mj\u00f8ndalen"
             }
         }, 
@@ -1142,8 +1197,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.larvikmikrobryggeri.no/", 
-                "name": "Larvik Mikrobryggeri", 
+                "ratebeer_id": 14355, 
                 "street": "Nedre Fritz\u00f8egate 2", 
+                "name": "Larvik Mikrobryggeri", 
                 "address": "3285 Larvik"
             }
         }, 
@@ -1159,8 +1215,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://lervig.no/", 
-                "name": "Lervig Aktiebryggeri AS", 
+                "ratebeer_id": 6163, 
                 "street": "Vierveien 1", 
+                "name": "Lervig Aktiebryggeri AS", 
                 "address": "4016 Stavanger"
             }
         }, 
@@ -1176,8 +1233,8 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.lianrestaurant.no/", 
-                "name": "Lian Restaurant", 
                 "street": "Lianvegen 36", 
+                "name": "Lian Restaurant", 
                 "address": "7025 Trondheim"
             }
         }, 
@@ -1193,8 +1250,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.lillehammerbryggeri.no/", 
-                "name": "Lillehammer Bryggeri AS", 
+                "ratebeer_id": 8264, 
                 "street": "Elvegata 19", 
+                "name": "Lillehammer Bryggeri AS", 
                 "address": "2609 Lillehammer"
             }
         }, 
@@ -1210,8 +1268,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.lindesnesbrygghus.no/", 
-                "name": "Lindesnes Brygghus", 
+                "ratebeer_id": 13990, 
                 "street": "Gahre N\u00e6ringspark", 
+                "name": "Lindesnes Brygghus", 
                 "address": "4521 Lindesnes"
             }
         }, 
@@ -1228,6 +1287,7 @@
             "properties": {
                 "website": "http://olkompani.no/", 
                 "name": "Lindheim \u00d8lkompani", 
+                "ratebeer_id": 18220, 
                 "phone": null, 
                 "org_desc": "Tinghaugvegen 101, 3810 Gvarv", 
                 "street": "Tinghaugvegen 101", 
@@ -1246,8 +1306,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://littlebrothercraftbrewery.com/", 
-                "name": "Little Brother Brewery", 
+                "ratebeer_id": 19887, 
                 "street": "Akersveien 19D", 
+                "name": "Little Brother Brewery", 
                 "address": "0177 Oslo"
             }
         }, 
@@ -1263,8 +1324,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.lofotpils.no/", 
+                "comment": "being established", 
                 "name": "Lofotpils AS", 
-                "comment": "being established",
+                "ratebeer_id": 21240, 
                 "street": "Vorset\u00f8y", 
                 "address": "8300 Svolv\u00e6r"
             }
@@ -1282,6 +1344,7 @@
             "properties": {
                 "website": "https://nb-no.facebook.com/ludwigmackbrygghus", 
                 "name": "Ludwig Mack Brygghus", 
+                "ratebeer_id": 1350, 
                 "org_desc": "Storgata 4, 9008 Troms\u00f8", 
                 "street": "Storgata 4", 
                 "address": "9008 Troms\u00f8"
@@ -1299,8 +1362,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://laagenbryggeri.no/", 
-                "name": "Laagen Bryggeri", 
+                "ratebeer_id": 19365, 
                 "street": "Dale-Gudbrands Gard, Hundorpgeilen", 
+                "name": "Laagen Bryggeri", 
                 "address": "2647 S\u00f8r-fron"
             }
         }, 
@@ -1316,8 +1380,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://xn--lvebrygg-9za.no/", 
+                "comment": "being established", 
                 "name": "L\u00e5ven mikrobryggeri", 
-                "comment": "being established",
+                "ratebeer_id": 23921, 
                 "street": "Modumveinen 27", 
                 "address": "Sylling, Buskerud"
             }
@@ -1334,8 +1399,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.mack.no/produkter/ol", 
-                "name": "Mack Bryggeri", 
+                "ratebeer_id": 1350, 
                 "street": "Mack Bryggeri", 
+                "name": "Mack Bryggeri", 
                 "address": "Skogveien 25"
             }
         }, 
@@ -1351,6 +1417,7 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.kjerringoy.info/index.php?id=40", 
+                "ratebeer_id": 14907, 
                 "name": "Markens Gr\u00f8de", 
                 "address": "8093 Bod\u00f8"
             }
@@ -1367,8 +1434,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.molaks.no/", 
-                "name": "Mo Laksegard", 
+                "ratebeer_id": 5627, 
                 "street": "Sandsbygda", 
+                "name": "Mo Laksegard", 
                 "address": "4230 Sand"
             }
         }, 
@@ -1383,8 +1451,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Mosj\u00f8en Mikrobryggeri", 
+                "ratebeer_id": 20037, 
                 "street": "Rynes\u00e5sen 150", 
+                "name": "Mosj\u00f8en Mikrobryggeri", 
                 "address": "8665 Mosj\u00f8en"
             }
         }, 
@@ -1400,8 +1469,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
+                "comment": "out of buisness 2009", 
                 "name": "M\u00f8llebyen Mikrobryggeri", 
-                "comment": "out of buisness 2009",
+                "ratebeer_id": 4674, 
                 "street": "Fossen 21", 
                 "address": "1530 Moss"
             }
@@ -1418,6 +1488,7 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.namdalsbryggeriet.no/", 
+                "ratebeer_id": 17926, 
                 "name": "Namdalsbryggeriet", 
                 "address": "Grong"
             }
@@ -1434,8 +1505,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Nordkapp Mikrobryggeri", 
                 "comment": "out of business", 
+                "name": "Nordkapp Mikrobryggeri", 
+                "ratebeer_id": 4673, 
                 "street": "Nordkappgata 1", 
                 "address": "9750 Honningsv\u00e5g, Norge"
             }
@@ -1452,8 +1524,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/NUA-brygghus/1410996775782752", 
-                "name": "Nua Brygghus AS", 
+                "ratebeer_id": 19456, 
                 "street": "Keiser Nicolaus gate 8", 
+                "name": "Nua Brygghus AS", 
                 "address": "4515 Mandal"
             }
         }, 
@@ -1469,8 +1542,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.nutheim.no/", 
-                "name": "Nutheim Gjestgiveri", 
+                "ratebeer_id": 17863, 
                 "street": "3841, Seljord", 
+                "name": "Nutheim Gjestgiveri", 
                 "address": "http://www.nutheim.no/"
             }
         }, 
@@ -1486,8 +1560,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.nydalenbryggeri.no/nydalen/", 
-                "name": "Nydalen Bryggeri og Spiseri", 
+                "ratebeer_id": 12574, 
                 "street": "Nydalsveien 30A", 
+                "name": "Nydalen Bryggeri og Spiseri", 
                 "address": "0484 Oslo"
             }
         }, 
@@ -1503,8 +1578,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.nogne-o.com/", 
-                "name": "N\u00f8gne \u00d8 - Det Kompromissl\u00f8se Bryggeri AS", 
+                "ratebeer_id": 3642, 
                 "street": "Gamle Rygene Kraftstasjon Lunde", 
+                "name": "N\u00f8gne \u00d8 - Det Kompromissl\u00f8se Bryggeri AS", 
                 "address": "4885 Grimstad"
             }
         }, 
@@ -1520,8 +1596,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://noisom.no/", 
-                "name": "N\u00f8isom Craft Beer", 
+                "ratebeer_id": 16701, 
                 "street": "\u00d8raveien 2", 
+                "name": "N\u00f8isom Craft Beer", 
                 "address": "1630 Fredrikstad"
             }
         }, 
@@ -1537,8 +1614,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.omb.no/", 
-                "name": "Oslo Mikrobryggeri AS", 
+                "ratebeer_id": 2318, 
                 "street": "Bogstadveien 6", 
+                "name": "Oslo Mikrobryggeri AS", 
                 "address": "0355 Oslo"
             }
         }, 
@@ -1554,8 +1632,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://nb-no.facebook.com/provianten", 
-                "name": "Provianten Brygghus", 
+                "ratebeer_id": 13476, 
                 "street": "Store Elvegate 45A", 
+                "name": "Provianten Brygghus", 
                 "address": "4514 Mandal"
             }
         }, 
@@ -1570,8 +1649,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Qdulla",  
+                "ratebeer_id": 14965, 
                 "street": "\u00d8stvik", 
+                "name": "Qdulla", 
                 "address": "7760 Sn\u00e5sa, Norway"
             }
         }, 
@@ -1587,8 +1667,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://reinskloster.no/produkter/reins-kloster-ol/", 
-                "name": "Rein Drikke", 
+                "ratebeer_id": 18434, 
                 "street": "Leira", 
+                "name": "Rein Drikke", 
                 "address": "7100 Rissa"
             }
         }, 
@@ -1604,9 +1685,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://stavsplassen.no/ridehall/", 
-                "name": "Ridehallen", 
                 "comment": "Being established - name and place is uncertain", 
                 "street": "Stavsplassen - Kongsvegen", 
+                "name": "Ridehallen", 
                 "address": "2635 Tretten"
             }
         }, 
@@ -1622,8 +1703,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.ringnes.no", 
-                "name": "Ringnes Bryggeri AS", 
+                "ratebeer_id": 1635, 
                 "street": "Bryggeriveien 2", 
+                "name": "Ringnes Bryggeri AS", 
                 "address": "1481 Hagan"
             }
         }, 
@@ -1639,8 +1721,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.rorosbryggeri.no/", 
-                "name": "R\u00f8ros Bryggeri og Mineralvannsfabrikk", 
+                "ratebeer_id": 13606, 
                 "street": "Kjerkgata 34", 
+                "name": "R\u00f8ros Bryggeri og Mineralvannsfabrikk", 
                 "address": "7374 R\u00f8ros"
             }
         }, 
@@ -1656,8 +1739,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.facebook.com/Schouskjelleren", 
-                "name": "Schouskjelleren Mikrobryggeri", 
+                "ratebeer_id": 12143, 
                 "street": "Trondheimsveien 2", 
+                "name": "Schouskjelleren Mikrobryggeri", 
                 "address": "0560 Oslo"
             }
         }, 
@@ -1673,8 +1757,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.sandarbrygg.no/", 
-                "name": "Sandar Haandverksbryggeri", 
+                "ratebeer_id": 17924, 
                 "street": "Torggata 4", 
+                "name": "Sandar Haandverksbryggeri", 
                 "address": "3210 Sandefjord"
             }
         }, 
@@ -1690,8 +1775,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://sandnes-brygge.no", 
+                "comment": "Being established", 
                 "name": "Sandnes Brygge", 
-                "comment": "Being established",
+                "ratebeer_id": 23944, 
                 "street": "Havnegata 15", 
                 "address": "4306 Sandnes"
             }
@@ -1707,9 +1793,10 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Skavli Brygghus", 
                 "comment": "Being established", 
+                "ratebeer_id": 18937, 
                 "street": "Skavli G\u00e5rd", 
+                "name": "Skavli Brygghus", 
                 "address": "9440 Evenskjer"
             }
         }, 
@@ -1725,9 +1812,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.slettnesbruk.no/", 
-                "name": "Slettnes Bruk", 
                 "comment": "Being established", 
-                "street": "Mehamn"
+                "street": "Mehamn", 
+                "name": "Slettnes Bruk"
             }
         }, 
         {
@@ -1742,8 +1829,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.smalahovetunet.com/", 
-                "name": "Smalahovetunet Voss", 
+                "ratebeer_id": 19882, 
                 "street": "Strandavegen 789", 
+                "name": "Smalahovetunet Voss", 
                 "address": "5710 Skulestadmo"
             }
         }, 
@@ -1758,8 +1846,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Sm\u00e5 Vesen", 
                 "comment": "out of business 2010", 
+                "name": "Sm\u00e5 Vesen", 
+                "ratebeer_id": 22959, 
                 "org_desc": "Bannkplassen, Bagn i Valdres<br>2930 Bagn", 
                 "street": "Bannkplassen, Bagn i Valdres", 
                 "address": "2930 Bagn"
@@ -1777,8 +1866,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.spisekroken.no/", 
-                "name": "Spisekroken", 
+                "ratebeer_id": 15523, 
                 "street": "Klostergaten 8", 
+                "name": "Spisekroken", 
                 "address": "5005 Bergen"
             }
         }, 
@@ -1794,8 +1884,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.hjelseng.no/Hjelseng/Stjrdalsbryggeriet.html", 
-                "name": "Stj\u00f8rdalsbryggeriet",
                 "comment": "Being established", 
+                "name": "Stj\u00f8rdalsbryggeriet", 
+                "ratebeer_id": 20039, 
                 "phone": "+47 916 85 552", 
                 "street": "Stokke G\u00e5rd", 
                 "address": "Stokkanvegen 42"
@@ -1813,8 +1904,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.storligard.no/main/main.htm", 
+                "street": "Storlidalen", 
                 "name": "Storli Gard", 
-                "street": "Storlidalen"
+                "ratebeer_id": 19883
             }
         }, 
         {
@@ -1829,8 +1921,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.sundbytunet.no/", 
-                "name": "Sundbytunet AS", 
+                "ratebeer_id": 13674, 
                 "street": "Gardermovegen 6", 
+                "name": "Sundbytunet AS", 
                 "address": "2050 Jessheim"
             }
         }, 
@@ -1846,8 +1939,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://svalbardbryggeri.com/", 
-                "name": "Svalbard Bryggeri", 
+                "ratebeer_id": 24019, 
                 "street": "Sj\u00f8omr\u00e5det", 
+                "name": "Svalbard Bryggeri", 
                 "address": "9170 Longyearbyen"
             }
         }, 
@@ -1863,8 +1957,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://teveltunet.no", 
-                "name": "Teveltunet \u00d8lbryggeri", 
+                "ratebeer_id": 18948, 
                 "street": "Teveltunet Fjellstue", 
+                "name": "Teveltunet \u00d8lbryggeri", 
                 "address": "7530 Mer\u00e5ker"
             }
         }, 
@@ -1880,8 +1975,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://tinja.no/", 
-                "name": "Tinja Fjellg\u00e5rd", 
+                "ratebeer_id": 17189, 
                 "street": "Kong Olavs vei", 
+                "name": "Tinja Fjellg\u00e5rd", 
                 "address": "8517 Narvik"
             }
         }, 
@@ -1897,8 +1993,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/tongabrygg/info", 
-                "name": "Tonga Gardsbrygger", 
+                "ratebeer_id": 18985, 
                 "street": "Dale i Norddal", 
+                "name": "Tonga Gardsbrygger", 
                 "address": "M\u00f8re og Romsdal"
             }
         }, 
@@ -1914,8 +2011,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.facebook.com/totaarnbryggeri", 
-                "name": "To T\u00e5rn Bryggeri", 
+                "ratebeer_id": 13640, 
                 "street": "Osloveien 45", 
+                "name": "To T\u00e5rn Bryggeri", 
                 "address": "7018 Trondheim"
             }
         }, 
@@ -1931,8 +2029,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.finnfirma.no/infoside/trollbryggeriet-da/619752.html", 
-                "name": "Trollbryggeriet", 
+                "ratebeer_id": 10926, 
                 "street": "Lied liabygda", 
+                "name": "Trollbryggeriet", 
                 "address": "6212 Liabygda"
             }
         }, 
@@ -1948,8 +2047,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://tmb.no/", 
-                "name": "Trondhjem Mikrobryggeri AS", 
+                "ratebeer_id": 4675, 
                 "street": "Prinsens Gate 39", 
+                "name": "Trondhjem Mikrobryggeri AS", 
                 "address": "7011 Trondheim"
             }
         }, 
@@ -1964,8 +2064,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "Union Bryggeri AS", 
+                "ratebeer_id": 10839, 
                 "street": "Papirkaia 14", 
+                "name": "Union Bryggeri AS", 
                 "address": "3732 Skien"
             }
         }, 
@@ -1981,8 +2082,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.valdres.com/no/Produkt/?TLp=671378", 
-                "name": "Valdres Gardsbryggeri", 
+                "ratebeer_id": 3845, 
                 "street": "Volbu, ", 
+                "name": "Valdres Gardsbryggeri", 
                 "address": "2940 Heggenes"
             }
         }, 
@@ -1998,9 +2100,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Vennd\u00f8la", 
-                "comment": "Being established",
+                "comment": "Being established", 
                 "street": "Huns\u00f8ya", 
+                "name": "Vennd\u00f8la", 
                 "address": "Vennesla"
             }
         }, 
@@ -2016,8 +2118,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/pages/Voss-Bryggeri/185945174871713", 
-                "name": "Voss Bryggeri", 
+                "ratebeer_id": 16575, 
                 "street": "Kytesvegen 396", 
+                "name": "Voss Bryggeri", 
                 "address": "5700 Voss"
             }
         }, 
@@ -2033,8 +2136,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.wettrebryggeri.com/", 
-                "name": "Wettre Bryggeri AS", 
                 "comment": "Being established", 
+                "name": "Wettre Bryggeri AS", 
+                "ratebeer_id": 20232, 
                 "street": "L. P. Wettres Vei 20", 
                 "address": "1392 Vettre"
             }
@@ -2051,8 +2155,9 @@
             "type": "Feature", 
             "properties": {
                 "website": null, 
-                "name": "Wesselg\u00e5rden", 
+                "ratebeer_id": 19170, 
                 "street": "Kilsveien 21", 
+                "name": "Wesselg\u00e5rden", 
                 "address": "3766 Sannidal"
             }
         }, 
@@ -2068,8 +2173,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.flamsbrygga.no/aegir-bryggeri/", 
-                "name": "\u00c6gir Bryggeri", 
+                "ratebeer_id": 8696, 
                 "street": "Fl\u00e5msbrygga", 
+                "name": "\u00c6gir Bryggeri", 
                 "address": "5742 Fl\u00e5m"
             }
         }, 
@@ -2085,8 +2191,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.drikkeglede.no/norske-bryggerier/oelve-paa-egge-bryggeri-article825-395.html", 
-                "name": "\u00d8lve p\u00e5 Egge Bryggeri", 
+                "ratebeer_id": 6162, 
                 "street": "Vestre Elnan, S\u00f8r-beitstad", 
+                "name": "\u00d8lve p\u00e5 Egge Bryggeri", 
                 "address": "7724 Steinkjer"
             }
         }, 
@@ -2102,8 +2209,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "https://www.facebook.com/orensmeieri", 
-                "name": "\u00d8rens Meieri", 
                 "comment": "Being established", 
+                "name": "\u00d8rens Meieri", 
+                "ratebeer_id": 18046, 
                 "street": "Jernbanegata 11", 
                 "address": "7650 Verdals\u00f8ra"
             }
@@ -2120,8 +2228,9 @@
             "type": "Feature", 
             "properties": {
                 "website": "http://www.aass.no/", 
-                "name": "Aass Bryggeri",  
+                "ratebeer_id": 164, 
                 "street": "Ole Steens gate 10", 
+                "name": "Aass Bryggeri", 
                 "address": "3015 Drammen"
             }
         }
