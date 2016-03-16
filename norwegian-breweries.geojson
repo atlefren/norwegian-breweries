@@ -5,18 +5,18 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    5.322158, 
-                    60.413541, 
-                    0.0
+                    5.2970054, 
+                    60.3327067, 
+                    107.0
                 ]
             }, 
             "type": "Feature", 
             "properties": {
                 "website": "http://www.7fjellbryggeri.com/", 
                 "ratebeer_id": 18125, 
-                "street": "Sandviksveien 62", 
+                "street": "Fjellsdalen 5", 
                 "name": "7 Fjell Bryggeri", 
-                "address": "5035 Bergen"
+                "address": "5155 Bønes"
             }
         }, 
         {
